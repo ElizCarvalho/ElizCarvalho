@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Eliz 👋
 
 <!--
 **ElizCarvalho/ElizCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
+
+<a href="https://www.linkedin.com/in/giovanna-anacleto/">
+  <img align="left" alt="Eliz Carvalho - Linkedin " width="31px" src="https://raw.githubusercontent.com/anacletogiovanna/anacletogiovanna/master/images/linkedin.png" />
+</a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
