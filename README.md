@@ -1,20 +1,51 @@
-### Hi there, I'm Eliz 👋
+### Hi there, I'm Eliz 👩‍💻
 
-<!--
-**ElizCarvalho/ElizCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/elizcarvalho/">
   <img align="left" alt="Eliz Carvalho - Linkedin " width="21px" src="https://raw.githubusercontent.com/ElizCarvalho/ElizCarvalho/main/imgs/linkedin.png" />
 </a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<br />
+<br />
+
+> "Only the one who sees the invisible is able to achieve the impossible" (Frank Gaines)
+
+
+🔭 I’m currently working on <a href="http://www.radixeng.com.br/">Radix Engineering and Software</a>
+<br/>
+
+👩‍🎓 I'm studying Computer Engineering and 
+Postgraduate in Software Archtecture
+<br/>
+
+💪 I’m currently learning/My skills: 
+- DevOps
+- C#
+- .Net
+- Entity Framework
+- Razor
+- SonarQube
+- Docker 
+- Scrum
+<br/>
+
+**🏆 Participation in Marathons and Hackathons 🏆**
+
+🥇 1st place Radix Hackaton 2019:
+
+Here is the repository:
+
+<a href="https://github.com/ElizCarvalho/Dashboard_Engie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anacletogiovanna&repo=Dashboard_Engie&theme=onedark" />
+</a>  
+
+
+**A brief github status:** 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElizCarvalho&hide=javascript,html,css,jupyter notebook&theme=onedark" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ElizCarvalho&show_icons=true&theme=onedark" />
+</a>
 
