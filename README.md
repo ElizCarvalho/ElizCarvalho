@@ -34,13 +34,14 @@ Postgraduate in Software Archtecture
 <br/>
 <br/>
 
-Here is the repository:
+**Here is the repository:**
 <br/>
 
 <a href="https://github.com/ElizCarvalho/Dashboard_Engie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anacletogiovanna&repo=Dashboard_Engie&theme=onedark" />
 </a>  
 
+<br/>
 <br/>
 
 **A brief github status:** 
