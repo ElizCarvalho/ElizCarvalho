@@ -39,6 +39,7 @@ Here is the repository:
 </a>  
 
 <br/>
+
 **A brief github status:** 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
