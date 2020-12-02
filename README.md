@@ -13,8 +13,8 @@
 🔭 I’m currently working on <a href="http://www.radixeng.com.br/">Radix Engineering and Software</a>
 <br/>
 
-👩‍🎓 I'm studying Computer Engineering and 
-Postgraduate in Software Archtecture
+👩‍🎓 I'm studying Computer Engineering (Infnet Institute) and 
+Postgraduate in Software Archtecture (PUC-MG)
 <br/>
 
 💪 I’m currently learning/My skills: 
