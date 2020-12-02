@@ -32,9 +32,7 @@ Postgraduate in Software Archtecture (PUC-MG)
 
 🥇 1st place Radix Hackaton 2019:
 <br/>
-<br/>
-
-**Here is the repository:**
+Here is the repository:
 <br/>
 
 <a href="https://github.com/ElizCarvalho/Dashboard_Engie">
