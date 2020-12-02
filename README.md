@@ -31,8 +31,11 @@ Postgraduate in Software Archtecture
 **🏆 Participation in Marathons and Hackathons 🏆**
 
 🥇 1st place Radix Hackaton 2019:
+<br/>
+<br/>
 
 Here is the repository:
+<br/>
 
 <a href="https://github.com/ElizCarvalho/Dashboard_Engie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anacletogiovanna&repo=Dashboard_Engie&theme=onedark" />
