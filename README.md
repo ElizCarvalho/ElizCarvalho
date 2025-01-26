@@ -101,12 +101,10 @@ Tech Lead com mais de 10 anos de experiência em desenvolvimento e liderança de
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ElizCarvalho&theme=transparent&row=1&column=7"/>
   
   <!-- Contribution Snake Animation -->
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElizCarvalho/ElizCarvalho/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElizCarvalho/ElizCarvalho/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ElizCarvalho/ElizCarvalho/output/github-contribution-grid-snake.svg">
-    </picture>
-  </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElizCarvalho/ElizCarvalho/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElizCarvalho/ElizCarvalho/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ElizCarvalho/ElizCarvalho/output/github-contribution-grid-snake.svg">
+</picture>
   
 </div>
