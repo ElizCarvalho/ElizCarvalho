@@ -10,12 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      
-      - uses: aelassas/snk@main
+
+      - uses: Platane/snk@v2.2.1
         with:
           github_user_name: ElizCarvalho
-          gif_out_path: dist/github-snake.gif
-          svg_out_path: dist/github-snake.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
