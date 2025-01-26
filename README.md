@@ -101,6 +101,8 @@ Tech Lead com mais de 10 anos de experiência em desenvolvimento e liderança de
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ElizCarvalho&theme=transparent&row=1&column=7"/>
   
   <!-- Contribution Snake Animation -->
-![Snake animation](https://raw.githubusercontent.com/ElizCarvalho/ElizCarvalho/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ElizCarvalho/ElizCarvalho/output/github-contribution-grid-snake.svg" alt="snake animation">
+</div>
   
 </div>
