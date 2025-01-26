@@ -102,7 +102,7 @@ Tech Lead com mais de 10 anos de experiência em desenvolvimento e liderança de
   
   <!-- Contribution Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ElizCarvalho/ElizCarvalho/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://raw.githubusercontent.com/ElizCarvalho/ElizCarvalho/output/ocean.gif" alt="Snake animation">
 </div>
   
 </div>
