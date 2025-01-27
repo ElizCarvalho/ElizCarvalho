@@ -79,26 +79,35 @@ Tech Lead com mais de 10 anos de experiência em desenvolvimento e liderança de
 - 🥇 1º Lugar no Radix Hackathon 2019
   - Projeto: [Dashboard Engie](https://github.com/ElizCarvalho/Dashboard_Engie)
   - Solução de monitoramento em tempo real para eficiência energética
-  - 
 
 ### 📊 GitHub Analytics
 
 <div align="center">
   
-  <!-- GitHub Stats Card -->
+  <!-- GitHub Stats Card 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElizCarvalho&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  
-  <!-- Most Used Languages -->
+  -->
+  <!-- Most Used Languages 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElizCarvalho&layout=compact&theme=transparent"/>
-  
+  -->
   <!-- GitHub Streak Stats -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ElizCarvalho&theme=transparent"/>
   
-  <!-- GitHub Activity Graph -->
+  <!-- GitHub Activity Graph 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ElizCarvalho&theme=transparent"/>
+  -->
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElizCarvalho&theme=nord_dark">
+    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElizCarvalho&theme=nord_bright">
+    <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElizCarvalho&theme=nord_dark">
+  </picture>
   
   <!-- GitHub Profile Trophy -->
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ElizCarvalho&theme=transparent&row=1&column=7"/>
+
+
+
 
   ![Snake animation](https://github.com/ElizCarvalho/ElizCarvalho/blob/output/github-contribution-grid-snake.svg)
 
