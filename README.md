@@ -46,13 +46,6 @@ Tech Lead com mais de 10 anos de experiência em desenvolvimento e liderança de
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![REST](https://img.shields.io/badge/-REST-000000?style=flat)
 
-### 🚀 Experiência Profissional Atual
-
-**Tech Lead @ Hurb**
-- Liderança técnica em projetos críticos de alta disponibilidade
-- Desenvolvimento e arquitetura de sistemas distribuídos
-- Implementação de soluções de observabilidade e monitoramento
-- Mentoria técnica e desenvolvimento de equipes
 
 ### 👥 Soft Skills
 - Liderança técnica
