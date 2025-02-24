@@ -13,7 +13,7 @@
 
 ### 👩‍💻 Sobre mim
 
-Tech Lead com mais de 10 anos de experiência em desenvolvimento e liderança de sistemas críticos de alta disponibilidade. Atualmente na Hurb, liderando equipe de alta performance composta por 8 desenvolvedores de diferentes senioridades responsaveis pelo desenvolvimento e sustentação de sistemas críticos de alta disponibilidade no time de Serviços (Core System Eng.), responsável por todos sistemas que envolvem as regras de negócio da empresa.
+Tech Lead com mais de 10 anos de experiência em desenvolvimento e liderança de sistemas críticos de alta disponibilidade. Em um experiência mais recente, liderei uma equipe de alta performance composta por 8 desenvolvedores de diferentes senioridades responsaveis pelo desenvolvimento e sustentação de sistemas críticos de alta disponibilidade no time de Serviços (Core System Eng.), responsável por todos sistemas que envolvem as regras de negócio da empresa.
 
 ### 📚 Formação
 - Ciência da Computação (UFF)
