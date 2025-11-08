@@ -19,7 +19,7 @@ Tech Lead com mais de 10 anos de experiência em desenvolvimento e liderança de
 - Ciência da Computação (UFF)
 - Engenharia de Computação e de Software (Instituto Infnet)
 - Especialização em Arquitetura de Sistemas Distribuídos (PUCMG)
-- Cursando Especialização em Golang (FullCycle)
+- Especialização em Golang (FullCycle)
 - Cursando Especialização em Liderança Técnica (FullCycle)
 
 ### 💪 Principais Tecnologias & Ferramentas
